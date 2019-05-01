@@ -1,0 +1,74 @@
+
+@font-face {
+  font-family: 'myFont';
+  src: url('./UniversNext.ttf');
+}
+.qvt-sheet {
+  background: #253038 !important;
+}
+
+.qv-object * {
+  font-family: "myFont", Arial;
+}
+
+.qva-chart-data-title * {
+  font-weight: bold
+}
+
+.cl-title {
+  font-weight: bold;
+}
+
+
+.qv-st-data-cell-null-value {
+  background: none;
+}
+
+.qv-pt .cell .value {
+  background-color: #a6b2bc !important;
+}
+
+
+.qv-listbox-container {
+  background-color: #ffffff;
+}
+
+.qv-chart-scrollable-horizontal {
+  background-color: #a6b2bc !important;
+}
+
+
+.qv-collapsed-listbox {
+  border: solid 1px #a6b2bc;
+}
+
+
+.qv-collapsed-listbox .title-wrapper {
+  background-color: #1d262c !important;
+}
+
+.qv-collapsed-listbox .title-wrapper .title {
+  color: #a6b2bc !important;
+}
+
+.qv-listbox li.serverOptional {
+  background-color: #ffffff;
+  color: #595959;
+}
+
+.qv-state-count-bar .state.alternative {
+  background-color: #ffffff;
+}
+
+.qv-state-count-bar .state.alternative {
+  color: #ffffff;
+}
+
+/* .qv-object .qv-object-header {
+  background: #ffffff;
+  color: #595959;
+}
+
+.qv-object.qv-object-listbox .qv-object-title {
+  color: #595959 !important;
+} */
